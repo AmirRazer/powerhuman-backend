@@ -39,4 +39,6 @@ class CompanyController extends Controller
             'Companies Found'
         );
     }
+
+    
 }
